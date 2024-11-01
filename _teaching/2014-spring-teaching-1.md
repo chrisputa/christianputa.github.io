@@ -1,17 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Grundlagen der Sportmedizin und Gesundheitsförderung"
 collection: teaching
-type: "Undergraduate course"
+type: "Bachelor of Science Performance and Health"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Friedrich-Schiller-University Jena, Department of Sports Medicine and Health Promotion"
+date: 2014-11-01
+location: "Jena, Germany"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
+[YouTube](https://youtu.be/341DvoJaS4E)
 
 Heading 2
 ======
