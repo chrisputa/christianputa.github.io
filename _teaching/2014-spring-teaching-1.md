@@ -5,14 +5,14 @@ type: "Bachelor of Science Performance and Health"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Friedrich-Schiller-University Jena, Department of Sports Medicine and Health Promotion"
 date: 2014-11-01
-location: "Jena, Germany"
+location: "Jena, Jena"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
+[YouTube](https://youtu.be/341DvoJaS4E)
 
 Heading 1
 ======
-[YouTube](https://youtu.be/341DvoJaS4E)
 
 Heading 2
 ======
