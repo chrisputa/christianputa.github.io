@@ -9,7 +9,6 @@ location: "Jena, Jena"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
-[YouTube](https://youtu.be/341DvoJaS4E)
 
 Heading 1
 ======
