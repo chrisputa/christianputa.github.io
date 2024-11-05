@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Point of View: Immunobiology of exercise in healh and disease"
+title: "Immunobiology of exercise in healh and disease"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
